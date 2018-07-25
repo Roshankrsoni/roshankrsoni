@@ -497,14 +497,16 @@ body {
   color: #bbb;
   border: 1px solid #bbb;
 }
+
 .footer {
-  min-height: 240px;
-  border-top: 1px solid #d6d6d6;
-  background-color: #fff;
-  padding: 30px 40px;
-  text-align: center;
-  overflow: hidden;
+    width: 100%;
+    border-top: 1px solid #d6d6d6;
+    background-color: #f4f4f4;
+    padding: 0px 1px;
+    text-align: center;
+    overflow: hidden;
 }
+
 @media screen and (max-width: 1300px) {
   .container {
     max-width: 843px;
