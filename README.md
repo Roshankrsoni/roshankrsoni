@@ -29,3 +29,5 @@ I'm a __Fullstack developer__ Having a great passion in both back-end and front-
 
 <br/>
 <br/>
+<span style="color:red">some **Note: Not my official Profile to showcase, I just do experiment using this Profile.** text</span>
+
