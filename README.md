@@ -51,7 +51,7 @@ I'm a __Fullstack developer__ Having a great passion in both back-end and front-
 ---
 ![](https://komarev.com/ghpvc/?username=roshankrsoni&label=Visitors+Count&color=brightgreen)
 
-  ## 💰You can help me by Donating
+  ## 💰 For Donation
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/roshankrsoni) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
