@@ -5,8 +5,8 @@
 <p align="center">
  <a>
   <a href="https://roshankrsoni.github.io">Website</a> •
-  <a href="https://www.linkedin.com/in/roshankrsoni">Linkedin</a> •
-  <a href="https://twitter.com/Roshankrsoni">Twitter</a> 
+  <a href="^">Linkedin</a> •
+  <a href="https://twitter.com/">Twitter</a> 
 </p>
 
 I'm a __Fullstack developer__ Having a great passion in both back-end and front-end development, Ready for discussions and making new projects, write blogs on @Hashnode etc.
