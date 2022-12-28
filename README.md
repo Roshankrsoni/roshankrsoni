@@ -13,7 +13,7 @@ I'm a __Fullstack developer__ Having a great passion in both back-end and front-
 
 * 💼 Currently working at [Asort](https://www.asort.com) <br/>
 * ✍🏻 I wrote dev articles on [Hashnode](https://lymcode.hashnode.dev) <br/>
-* 📫 Contact me [@RoshanKrSoni](https://www.linkedin.com/in/roshankrsoni)
+* 📫 Contact me [@RoshanKrSoni](https://www.linkedin.com/in/)
 
 ## My skills
 
