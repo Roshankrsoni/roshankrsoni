@@ -1,0 +1,114 @@
+{
+  "name": "Roshan Kumar",
+  "title": "REACT JS DEVELOPER | FRONTEND DEVELOPER",
+  "location": "Hazaribagh, Jharkhand (India) - 825311",
+  "phone": "+91 0000000000",
+  "email": "0000000000@gmail.com",
+  "summary": "Frontend Developer with almost 4 years of IT experience, including 2.6+ years specializing in React JS development and 1 year as a Full-stack Developer. Proficient in building commercial web apps, UI testing, and API integration.",
+  "education": [
+    {
+      "institution": "Dr. C. V. Raman University Kota Bilaspur, C.G.",
+      "degree": "Master of Computer Applications (MCA)",
+      "date": "2017 - 2020"
+    },
+    {
+      "institution": "Dr. C. V. Raman University Kota Bilaspur, C.G.",
+      "degree": "Bachelor of Computer Applications (MCA)",
+      "date": "2014 - 2017"
+    }
+  ],
+  "skills": {
+    "programming": ["Javascript/TypeScript", "Node.Js"],
+    "webFrontend": ["ReactJs/Redux - Middleware (Saga/Thunk)", "Webpack", "HTML5", "CSS3", "SCSS", "StyledComponent"],
+    "webBackend": ["Express with Node.JS", "Core PHP"],
+    "mobile": ["React Native"],
+    "webService": ["Firebase", "Vercel", "Heroku", "Amazon AWS S3"],
+    "database": ["Postgres", "MongoDB"],
+    "tools": ["Visual Studio Code", "Sublime Text", "Storybook"],
+    "unitTesting": ["Jest", "Enzyme"],
+    "sourceControl": ["GitHub", "GitLab", "Bitbucket"],
+    "os": ["Mac", "Linux", "Windows 10"]
+  },
+  "experience": [
+    {
+      "title": "Software Consultant - (Frontend)",
+      "company": "Capita PLC - India",
+      "location": "Pune, India (Remote)",
+      "date": "APR 2022 - Present",
+      "responsibilities": [
+        "Developed 20+ reusable UI components and optimized user journeys, increasing user engagement.",
+        "Resolved more than 50 bugs and incorporated performance enhancements, leading to reduced loading times and enhanced user satisfaction.",
+        "Collaborated with cross-functional teams using technologies like JavaScript, React/Redux, TypeScript, Jest, and Storybook, contributing to more efficient development cycles.",
+        "Streamlined development processes, resulting in a reduction in project delivery times.",
+        "Facilitated daily communication and collaboration with multi-disciplinary teams."
+      ]
+    },
+    {
+      "title": "Software Engineer - (Frontend)",
+      "company": "Capital Numbers Pvt. Ltd.",
+      "location": "Kolkata, India (Remote)",
+      "date": "AUG. 2020 - MAR. 2022",
+      "responsibilities": [
+        "Managed full lifecycle of software development for multiple projects, ensuring on-time delivery and staying within budget.",
+        "Collaborated across cross-functional teams, leveraging technologies to decrease development cycles.",
+        "Successfully deployed web applications on Google Cloud Platform (GCP) and Amazon Web Services (AWS), achieving enhanced scalability and uptime.",
+        "Contributed to frontend websites for overseas clients."
+      ]
+    },
+    {
+      "title": "Software Development Engineer - I (Frontend)",
+      "company": "Asort Pvt. Ltd.",
+      "location": "Gurgaon, India",
+      "date": "DEC. 2019 - AUG. 2020",
+      "responsibilities": [
+        "Developed applications using JavaScript, React/Redux, TypeScript, NodeJS, and ExpressJS, resulting in increased project versatility.",
+        "Streamlined data retrieval and optimized RESTful service execution using Middleware (Saga/Thunk), leading to improved application performance.",
+        "Implemented optimizations to reduce page size and load times for an enhanced user experience.",
+        "Utilized Git for version control and collaborated on GitHub."
+      ]
+    },
+    {
+      "title": "Software Developer (Fullstack)",
+      "company": "Jai Infoway Pvt. Ltd.",
+      "location": "Ranchi, India",
+      "date": "OCT. 2018 - DEC. 2019",
+      "responsibilities": [
+        "Collaborated with designers to build marketing websites and e-commerce platforms.",
+        "Led development and maintenance of code for in-house and client websites, employing technologies like HTML, CSS, Sass, JavaScript, and jQuery, resulting in improved website performance.",
+        "Designed and executed a robust Express/NodeJS REST API for a CMS Web Application, enhancing data processing efficiency."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "role": "React Developer",
+      "name": "Script Shopper (Pharmacy Discount Coupon Product)",
+      "technologies": ["React/Redux (Thunk)", "Bootstrap", "ES6", "Git", "NodeJs", "Html/CSS", "Google Map API"],
+      "responsibilities": [
+        "Translated Wireframes and InVision Designs into an interactive web application using HTML5, CSS, and React/Redux, increasing user engagement.",
+        "Spearheaded MonoRepo adoption, integrated StoryBook for comprehensive component coverage, and conducted Unit Testing with Jest to reduce post-release bugs.",
+        "Integrated APIs and Google API for location search and autocomplete features, enhancing user experience.",
+        "Facilitated client interactions and provided technical guidance, leading to optimized project timelines.",
+        "Demonstrated comprehensive project engagement across all phases."
+      ]
+    },
+    {
+      "role": "React Developer",
+      "name": "Asort (E-Commerce)",
+      "technologies": ["React/Redux (Saga)", "React Native", "Antd Designs", "ES6", "Git", "NodeJs", "MongoDB", "Html/CSS"],
+      "responsibilities": [
+        "Designed and developed Asort from scratch, employing React/Redux (Saga), React Native, and other technologies.",
+        "Developed functional web app using HTML5, CSS, and ReactJs/Redux, and React Native for mobile applications.",
+        "Utilized Middleware (Saga/Thunk) to streamline data retrieval and optimize RESTful service execution.",
+        "Created API's to save multiple product records using CSV, contributing to all phases of development.",
+        "Managed technical documentation and version control using Git."
+      ]
+    }
+  ],
+  "certification": [
+    {
+      "name": "VSkills | Certified ReactJS Developer",
+      "link": "https://www.vskills.in/certification/90738-reactjs-certification-roshan-kumar"
+    }
+  ]
+}
