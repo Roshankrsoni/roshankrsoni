@@ -1,81 +1,87 @@
 # Roshan Kumar
-Your Address
-City, State, Zip Code
-Your Email Address
-Your Phone Number
-[LinkedIn Profile URL](LinkedIn Profile URL)
+## Frontend Developer | React Developer 
+Ranchi, Jharkhand   
+Phone: +91 0000000000     
+Email: 0000000000@gmail.com
 
-## Objective
-Dedicated and experienced Frontend Developer with a Master's degree and 4.11 years of hands-on experience across four different companies. Seeking the Lead React Developer role at [Company Name] to leverage my expertise in HTML5, CSS3, JavaScript, and React.js to create innovative and high-performance web applications.
+## Key Qualifications:
+- **Frontend Development:** HTML5, CSS3, JavaScript (ES6+)
+- **React.js:** Strong understanding, lifecycle methods, virtual DOM, 6-12 months hands-on experience
+- **Architecture:** One-way data flow, Flux architecture, stateful vs. stateless components
+- **Webpack:** Thorough understanding (version 2+), Web Components standard
+- **Progressive Web Apps (PWAs):** Hands-on experience
+- **Performance Optimization:** Frontend performance, resource loading strategy, CPU/Memory profiling
+- **Testing:** Test-driven development using Jest, snapshot testing, code coverage, Enzyme
+- **Responsive Design:** Fluid grids, Bootstrap
+- **SEO & Accessibility:** Integration into development workflow
+- **Graphics Manipulation:** Moderate to strong skills using Photoshop
+
+**Additional Skills (Brownie Points):**
+- **Databases:** Relational (MySQL), non-relational (MongoDB)
+- **GraphQL:** Hands-on experience
+- **Templating Languages:** Handlebars, Mustache, etc.
+- **Functional Programming (FP):** Hands-on experience
+- **Build Systems:** Frontend build systems, task runner automation
 
 ## Professional Experience
 
-### Frontend Developer | [Company Name 1] | City, State | Start Date - End Date
-- Collaborated in building complex interactive web experiences using HTML5, CSS3, and JavaScript.
-- Implemented Object Oriented JavaScript (OOJS) and stayed up-to-date with ECMAScript 2015+ standards.
-- Utilized React.js principles and maintained stateful and stateless components, following Flux architecture.
-- Proficient in Webpack bundler (version 2+) and adhered to Web Components standards.
+### Software Consultant - (Frontend) | Capita PLC - India
+- **Location:** Pune, India (Remote)
+- **Date:** APR 2022 - Present
+- **Responsibilities:**
+  - Collaborated on building interactive web experiences using HTML5, CSS3, and JavaScript.
+  - Implemented Object-Oriented JavaScript (OOJS) and ECMAScript 2015+ standards.
+  - Utilized React.js principles and maintained stateful and stateless components, following Flux architecture.
+  - Proficient in Webpack bundler (version 2+) and adhered to Web Components standards.
 
-### Frontend Developer | [Company Name 2] | City, State | Start Date - End Date
-- Demonstrated expertise in Single Page Applications (SPA) with universal rendering capabilities.
-- Optimized frontend performance, focusing on resource loading strategies and browser profiling.
-- Employed test-driven development using Jest and Enzyme for robust code quality.
-- Leveraged Bootstrap for responsive web design.
+### Software Engineer - (Frontend) | Capital Numbers Pvt. Ltd.
+- **Location:** Kolkata, India (Remote)
+- **Date:** AUG. 2020 - MAR. 2022
+- **Responsibilities:**
+  - Demonstrated expertise in Single Page Applications (SPA) with universal rendering capabilities.
+  - Optimized frontend performance, focusing on resource loading strategies and browser profiling.
+  - Employed test-driven development using Jest and Enzyme for robust code quality.
+  - Leveraged Bootstrap for responsive web design.
 
-### Frontend Developer | [Company Name 3] | City, State | Start Date - End Date
-- Constructed Progressive Web Apps (PWAs) and enhanced user experiences.
-- Actively involved in SEO and accessibility implementation throughout the development process.
-- Proficient in graphics manipulation and optimization with Photoshop.
+### Software Development Engineer - I (Frontend) | Asort Pvt. Ltd.
+- **Location:** Gurgaon, India
+- **Date:** DEC. 2019 - AUG. 2020
+- **Responsibilities:**
+  - Constructed Progressive Web Apps (PWAs) and enhanced user experiences.
+  - Actively involved in SEO and accessibility implementation throughout the development process.
+  - Proficient in graphics manipulation and optimization with Photoshop.
 
-### Frontend Developer | [Company Name 4] | City, State | Start Date - End Date
-- Skillfully managed relational databases (MySQL) and non-relational databases (MongoDB).
-- Utilized GraphQL for efficient data querying.
-- Implemented client-side templating languages like Handlebars and Mustache.
-- Leveraged Functional Programming (FP) principles for efficient code.
+### Software Developer (Fullstack) | Jai Infoway Pvt. Ltd.
+- **Location:** Ranchi, India
+- **Date:** OCT. 2018 - DEC. 2019
+- **Responsibilities:**
+  - Skillfully managed relational databases (MySQL) and non-relational databases (MongoDB).
+  - Utilized GraphQL for efficient data querying.
+  - Implemented client-side templating languages like Handlebars and Mustache.
+  - Leveraged Functional Programming (FP) principles for efficient code.
 
-## Education
-- **Master of Science in Computer Science** | [University Name] | Graduation Year
+## Projects (Selected)
 
-## Skills
+### Script Shopper (Pharmacy Discount Coupon Product)
+- **Role:** React Developer
+- **Technologies:** React/Redux (Thunk), Bootstrap, ES6, Git, NodeJs, Html/CSS, Google Map API
+- **Responsibilities:**
+  - Translated Wireframes and InVision Designs into an interactive web application using HTML5, CSS, and React/Redux, increasing user engagement.
+  - Spearheaded MonoRepo adoption, integrated StoryBook for comprehensive component coverage, and conducted Unit Testing with Jest to reduce post-release bugs.
+  - Integrated APIs and Google API for location search and autocomplete features, enhancing user experience.
+  - Facilitated client interactions and provided technical guidance, leading to optimized project timelines.
+  - Demonstrated comprehensive project engagement across all phases.
 
-### Core Skills
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Flux architecture
-- Webpack bundler, Web Components
-- Progressive Web Apps (PWAs)
-- Responsive Web Design (Bootstrap)
-- Test-Driven Development (Jest, Enzyme)
+### Asort (E-Commerce)
+- **Role:** React Developer
+- **Technologies:** React/Redux (Saga), React Native, Antd Designs, ES6, Git, NodeJs, MongoDB, Html/CSS
+- **Responsibilities:**
+  - Designed and developed Asort from scratch, employing React/Redux (Saga), React Native, and other technologies.
+  - Developed functional web app using HTML5, CSS, and ReactJs/Redux, and React Native for mobile applications.
+  - Utilized Middleware (Saga/Thunk) to streamline data retrieval and optimize RESTful service execution.
+  - Created API's to save multiple product records using CSV, contributing to all phases of development.
+  - Managed technical documentation and version control using Git.
 
-### Frontend Performance
-- Frontend Performance Optimization
-- Resource Loading Strategies
-- CPU/Memory Profiling
-
-### Database and Data Querying
-- MySQL and MongoDB (Relational and Non-Relational Databases)
-- GraphQL
-
-### Templating Languages
-- Handlebars
-- Mustache
-
-### Programming Paradigm
-- Functional Programming (FP)
-
-### Development Tools
-- Web Components
-- Webpack bundler (version 2+)
-
-### SEO and Accessibility
-- SEO Implementation
-- Accessibility Best Practices
-
-### Graphics Manipulation
-- Photoshop (Graphics Manipulation)
-
-### Additional Skills (Brownie Points)
-- Frontend Build Systems
-- Task Automation
-
-## References
-References available upon request.
+## Certification
+- **VSkills | Certified ReactJS Developer**
+  - [View Certification](https://www.vskills.in/certification/90738-reactjs-certification-roshan-kumar)
