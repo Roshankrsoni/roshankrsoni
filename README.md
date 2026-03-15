@@ -11,7 +11,7 @@
 
 I'm a __Fullstack developer__ Having a great passion in both back-end and front-end development, Ready for discussions and making new projects, write blogs on @Hashnode etc.
 
-* 💼 Currently working at [Publicis Sapient](https://www.publicissapient.com) <br/>
+
 * ✍🏻 I wrote dev articles on [Hashnode](https://lymcode.hashnode.dev) <br/>
 * 📫 Contact me [@RoshanKrSoni](https://www.linkedin.com/in/)
 
