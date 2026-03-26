@@ -1,7 +1,11 @@
 
 
 <h1 align="center">Hi there 👋 I'm <a href='https://roshankrsoni.github.io'>Roshan Kr Soni </a></h1>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=roshankrsoni&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/roshankrsoni?label=Followers&style=for-the-badge&color=FE428E" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/roshankrsoni?label=Total%20Stars&style=for-the-badge&color=F8D847" alt="GitHub Stars" />
+</div>
 <p align="center">
  <a>
   <a href="https://roshankrsoni.github.io">Website</a> •
