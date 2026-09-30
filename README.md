@@ -42,10 +42,9 @@ I'm a __Fullstack developer__ Having a great passion in both back-end and front-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 ![](https://komarev.com/ghpvc/?username=roshankrsoni&label=Visitors+Count&color=brightgreen)
 
-  ## 💰 To Sponsor
+ <!-- ## 💰 To Sponsor
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/roshankrsoni) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
