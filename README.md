@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://roshankrsoni.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/roshankrsoni">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roshankrsoni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=roshankrsoni&label=Profile%20Views&color=e91e63&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/roshankrsoni?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
 
