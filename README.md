@@ -12,10 +12,10 @@
   <a href="https://roshankrsoni.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/roshankrsoni">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:roshankrsoni1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/github/followers/roshankrsoni?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -39,6 +39,8 @@ I'm a software engineer and independent product builder focused on creating usef
 - ✍️ Sharing what I learn through technical content and experiments
 - 💬 Open to discussing software engineering, product ideas, and collaboration
 
+  
+<!--
 ```js
 const roshan = {
   role: "Senior Software Engineer & Product Builder",
@@ -58,7 +60,8 @@ const roshan = {
   ],
   building: "Useful software that solves real problems"
 };
-```
+``` 
+-->
 
 ## 🛠️ Core Skills
 
@@ -72,7 +75,6 @@ const roshan = {
 | 🧪 **Engineering Practices** | ⚡ Performance · 🧱 Frontend Architecture · 🎨 Design Systems · 🧩 Reusable Components · 🧪 Jest · React Testing Library · 📚 Storybook · 🔍 ESLint                                                                                          |
 
 ---
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshankrsoni&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Roshan's GitHub statistics" />
