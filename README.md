@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer and independent product builder focused on creating useful, scalable, and delightful digital products.
+A Software Engineer and Independent Product builder focused on creating useful, scalable, and delightful Digital Products.
 
 - 📱 Building cross-platform mobile applications with React Native
 - 🌐 Developing modern web applications with React and JavaScript
@@ -74,7 +74,7 @@ const roshan = {
 | ☁️ **Cloud & Deployment**    | <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,nginx" height="26" alt="Cloud and deployment skills" /><br>AWS · Google Cloud · Firebase · Vercel · Netlify · Nginx · CI/CD · Application Deployment                        |
 | 🧪 **Engineering Practices** | ⚡ Performance · 🧱 Frontend Architecture · 🎨 Design Systems · 🧩 Reusable Components · 🧪 Jest · React Testing Library · 📚 Storybook · 🔍 ESLint                                                                                          |
 
----
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshankrsoni&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Roshan's GitHub statistics" />
@@ -85,7 +85,7 @@ const roshan = {
   <img src="https://streak-stats.demolab.com?user=roshankrsoni&theme=transparent&hide_border=true" alt="Roshan's GitHub streak" />
 </p> -->
 
----
+
 <!--
 ## ✍️ Writing and Learning
 
